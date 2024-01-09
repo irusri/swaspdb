@@ -1,0 +1,8 @@
+.GeneList {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .highcharts-credits{
+    display: none !important;
+}
